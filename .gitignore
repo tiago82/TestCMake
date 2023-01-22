@@ -400,6 +400,9 @@ FodyWeavers.xsd
 *.app
 
 
+out/
+
+
 
 
 
