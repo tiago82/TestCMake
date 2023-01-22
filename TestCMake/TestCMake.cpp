@@ -8,5 +8,6 @@ using namespace std;
 int main()
 {
 	cout << "Hello CMake." << endl;
+	cout << "Bem Vindo" << endl;
 	return 0;
 }
