@@ -4,5 +4,6 @@
 #pragma once
 
 #include <iostream>
+#include "IncludeTest/Vector2dTest.h"
 
 // TODO: Referencie os cabeçalhos adicionais de que seu programa precisa aqui.
